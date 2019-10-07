@@ -10,7 +10,6 @@
                 <li><a href="frameworks.jsp"><span class="icon-service"></span>Entornos de trabajo</a></li>
                 <li><a href="lenguajes.jsp"><span class="icon-product"></span>Programación</a></li>
                 <li><a href="clases.jsp"><span class="icon-info"></span>Clases, metodos, objetos y patrones</a></li>
-                <li><a href="favoritos.jsp"><span class="icon-info"></span>favoritos</a></li>
             </ul>
         </nav>
     </div>
